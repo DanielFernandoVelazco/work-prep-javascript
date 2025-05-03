@@ -122,6 +122,8 @@ function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
 
+  return x % y;
+
 }
 
 function esPar(num) {
